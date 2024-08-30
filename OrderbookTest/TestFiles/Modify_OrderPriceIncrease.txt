@@ -1,0 +1,4 @@
+A S GoodTillCancel 105 10 1
+A B GoodTillCancel 100 10 2
+M 2 B 107 10
+R 0 0 0

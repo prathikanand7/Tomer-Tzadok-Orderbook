@@ -1,0 +1,4 @@
+A B GoodTillCancel 100 10 1
+A B GoodTillCancel 100 15 2
+A S Market 0 20 3
+R 1 1 0
